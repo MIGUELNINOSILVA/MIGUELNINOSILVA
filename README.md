@@ -1,4 +1,4 @@
-![Miguel Angel Niño Silva](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Miguel Angel Niño Silva](./img/OIG.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Miguel </h2>
 
