@@ -1,4 +1,4 @@
-![Miguel Angel Niño Silva](./img/bgreadme.jpeg)
+<img src="./img/bgreadme.jpeg" width="200rem">
 <h2>Hey there! I'm Miguel </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
