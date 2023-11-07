@@ -1,4 +1,4 @@
-![Miguel Angel Niño Silva](./img/bg.jpeg)
+![Miguel Angel Niño Silva](./img/OIG.jpeg)
 <h2>Hey there! I'm Miguel </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
