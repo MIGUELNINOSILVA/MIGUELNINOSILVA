@@ -1,6 +1,5 @@
-![Miguel Angel Niño Silva](./img/OIG.jpeg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Miguel </h2>
+![Miguel Angel Niño Silva](./img/bg.jpeg)
+<h2>Hey there! I'm Miguel </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
