@@ -46,4 +46,12 @@
 <a href="https://api.whatsapp.com/send/?phone=3126078359&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
+
+### 💻 &nbsp;My projects full stack (MERN)
+- [KARIO-MEDIA](https://github.com/MIGUELNINOSILVA/KARIO-MEDIA.git) (Contribuition with the frontend, HTML, CSS and JS, REACTJS, I led the project and made sure that the branches were merged ).
+
+- [Ecommerce](https://github.com/MIGUELNINOSILVA/Aplicativo-Web---API.git) (MERN STACK)
+
+-  [Loan managment](https://github.com/MIGUELNINOSILVA/Sistema-gestion-prestamos-monetarios.git) (HTML, CSS and JS, NODEJS, EXPRESS, MONGODB, REACTJS).
+
 ---
